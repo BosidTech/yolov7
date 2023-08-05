@@ -1,0 +1,70 @@
+[I 2023-08-05 18:19:51.865 ServerApp] jupyterlab | extension was successfully linked.
+[W 2023-08-05 18:19:51.866 NotebookApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-08-05 18:19:51.867 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-08-05 18:19:51.867 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-08-05 18:19:51.867 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-08-05 18:19:51.867 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-08-05 18:19:51.867 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-08-05 18:19:52.094 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-08-05 18:19:52.113 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-08-05 18:19:52.113 LabApp] JupyterLab extension loaded from /Users/zhujinhui/Dev/main_dev/miniconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-08-05 18:19:52.113 LabApp] JupyterLab application directory is /Users/zhujinhui/Dev/main_dev/miniconda3/share/jupyter/lab
+[I 2023-08-05 18:19:52.115 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-08-05 18:19:52.117 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-08-05 18:19:52.117 ServerApp] Serving notebooks from local directory: /Users/zhujinhui/Downloads/全时段街景录像数据/工作日/yolov7
+[I 2023-08-05 18:19:52.117 ServerApp] Jupyter Server 1.16.0 is running at:
+[I 2023-08-05 18:19:52.117 ServerApp] http://zhujinhuis-MBP:16000/lab
+[I 2023-08-05 18:19:52.117 ServerApp]  or http://127.0.0.1:16000/lab
+[I 2023-08-05 18:19:52.117 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2023-08-05 18:19:53.633 LabApp] 302 GET /lab (192.168.31.83) 1.61ms
+[I 2023-08-05 18:19:56.389 ServerApp] 302 POST /login?next=%2Flab (192.168.31.83) 84.29ms
+Unable to load extension: pydevd_plugins.extensions.types.pydevd_plugin_pandas_types
+[I 2023-08-05 18:19:58.634 LabApp] Build is up to date
+[W 2023-08-05 18:19:58.680 ServerApp] 404 GET /api/contents/filler/remove.ipynb?content=0&1691230798656 (192.168.31.83): No such file or directory: filler/remove.ipynb
+[W 2023-08-05 18:19:58.681 ServerApp] No such file or directory: filler/remove.ipynb
+[W 2023-08-05 18:19:58.681 ServerApp] 404 GET /api/contents/filler/remove.ipynb?content=0&1691230798656 (192.168.31.83) 12.22ms referer=http://zhujinhuis-mbp:16000/lab
+[W 2023-08-05 18:19:58.681 ServerApp] 404 GET /api/contents/filler/filler-show-waveform.sh?content=0&1691230798657 (192.168.31.83): No such file or directory: filler/filler-show-waveform.sh
+[W 2023-08-05 18:19:58.681 ServerApp] No such file or directory: filler/filler-show-waveform.sh
+[W 2023-08-05 18:19:58.681 ServerApp] 404 GET /api/contents/filler/filler-show-waveform.sh?content=0&1691230798657 (192.168.31.83) 9.23ms referer=http://zhujinhuis-mbp:16000/lab
+[I 2023-08-05 18:19:58.706 ServerApp] New terminal with automatic name: 1
+[I 2023-08-05 18:19:58.717 ServerApp] New terminal with automatic name: 4
+[I 2023-08-05 18:19:58.723 ServerApp] New terminal with automatic name: 3
+[I 2023-08-05 18:19:58.730 ServerApp] New terminal with automatic name: 2
+[I 2023-08-05 18:19:58.740 ServerApp] New terminal with automatic name: 6
+[I 2023-08-05 18:19:58.749 ServerApp] New terminal with automatic name: 5
+TermSocket.open: 1
+TermSocket.open: Opened 1
+TermSocket.open: 4
+TermSocket.open: Opened 4
+TermSocket.open: 3
+TermSocket.open: Opened 3
+TermSocket.open: 2
+TermSocket.open: Opened 2
+TermSocket.open: 6
+TermSocket.open: Opened 6
+TermSocket.open: 5
+TermSocket.open: Opened 5
+[W 2023-08-05 18:19:59.379 ServerApp] 404 GET /api/contents/filler/tnBQmEqBCY0?1691230799377 (192.168.31.83): No such file or directory: filler/tnBQmEqBCY0
+[W 2023-08-05 18:19:59.379 ServerApp] No such file or directory: filler/tnBQmEqBCY0
+[W 2023-08-05 18:19:59.379 ServerApp] 404 GET /api/contents/filler/tnBQmEqBCY0?1691230799377 (192.168.31.83) 0.55ms referer=http://zhujinhuis-mbp:16000/lab
+[I 2023-08-05 18:27:58.441 ServerApp] Creating new notebook in 
+[I 2023-08-05 18:27:58.714 ServerApp] Kernel started: 43631922-ed23-4342-a548-8fdd366897c5
+Unable to load extension: pydevd_plugins.extensions.types.pydevd_plugin_pandas_types
+[I 2023-08-05 18:27:59.631 ServerApp] Starting buffering for 43631922-ed23-4342-a548-8fdd366897c5:22a87126-c3c5-46c6-a733-dcb7ed7ce192
+[I 2023-08-05 18:29:59.233 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-08-05 18:32:00.191 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:34:00.217 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:36:00.250 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:40:01.232 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:42:02.239 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:44:02.253 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:46:02.277 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:48:02.313 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:50:02.361 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:52:02.396 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:54:02.428 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 18:56:02.469 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 19:00:02.504 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 19:02:02.551 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 19:02:20.460 ServerApp] Saving file at /visualize.ipynb
+[I 2023-08-05 19:02:29.205 ServerApp] Saving file at /visualize_detection.py
